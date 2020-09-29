@@ -36,18 +36,4 @@ El vivero también puede agregar flores a su colección, y pasar un mes (lo que 
 El vivero decidió vender a su flor más rara, Jacinta. Es una rosa que lleva 68 meses viva (no sabemos cómo). Es roja carmesí y su precio es de $1500 por ser tan especial.
 * Permitir conocer también el precio de Jacinta. Por la edad que tiene está un poquito marchita, por lo tanto no es muy linda.
 
-<!--
-### Parte 3 - Color de moda
-
-El azul se puso de moda esta temporada, por lo tanto todas las flores azules son lindas. 
-
-* Resolver este requerimiento sin cambiar mucho el dominio.
-Pistas:
-* Los jazmines siguen siendo hermosos sin importar que sean blancos.
-* Las orquídeas, además de ser importadas tienen que ser azules.
-* Los tulipanes rojos ya no van, son lindos solo si son azules.
--->
-
-<!-- **TODO: Agregarle un precio base a cada tipo de flor?** -->
-
 
