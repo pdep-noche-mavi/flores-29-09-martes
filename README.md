@@ -29,8 +29,8 @@ Además empezaron a vender suculentas. De ellas se conoce su diámetro , su altu
 
 ### Parte 3 - Jacinta
 
-El vivero decidió vender a su flor más rara, Jacinta. Es una rosa que lleva 68 meses viva (no sabemos cómo). Es roja carmesí y su precio base es de $100 por ser tan especial.
-* Permitir conocer también el precio de Jacinta. Es linda solo los meses pares.
+El vivero decidió vender a su flor más rara, Jacinta. Es una rosa que lleva 68 meses viva (no sabemos cómo). Es roja carmesí y su precio base es de $100 por ser tan especial. De ella también se sabe que es linda solo los meses pares.
+* Permitir saber si Jacinta es linda.
 
 ### Parte 4 - Flores de moda
 
