@@ -1,6 +1,7 @@
 # Flores!
 
 ### Dominio
+<br><img src="orquidea.jfif"><br>
 Con la llegada de la primareva nos pusimos cholulos y pensamos en armar un jardín (hay que aprovechar, antes de que el otoño nos lo quite todo!). 
 Nuestro jardín tiene un conjunto de flores, y puede crecer flores nuevas. También podemos ganar un premio si todas las flores de nuestro jardín son lindas.
 Cada docente puede tener su propio jardín, **guiño guiño**. 
