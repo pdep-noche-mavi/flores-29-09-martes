@@ -13,6 +13,10 @@ De las flores se conoce su edad (en meses), su color y su precio base. Su precio
 
 * Permitir calcular el precio para las flores del vivero.
 
+
+---
+<br><br><br><br>
+
 ### Parte 1 - Linduras
 
 El vivero quiere poder conocer el precio de sus flores. Además quiere saber cuales son sus flores lindas. La lindura de una flor depende de cada una, Rayito de sol tiene la siguiente variedad de flores:
