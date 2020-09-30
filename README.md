@@ -2,14 +2,22 @@
 
 
 ## Dominio
-<br><img src="orquidea.jfif"><br>
+<br><img src="tulipanes1.jpg"><br>
 
-Con la llegada de la primavera, la venta de flores está en el top de negocios. El vivero "Rayito de Sol" nos contactó para que hagamos una aplicación en wollok que le ayude a automatizar sus ventas. El vivero tiene un conjunto de flores de distintos tipos y colores. 
-De las flores se conoce su edad (en meses), su color y su precio base. Su precio se calcula como su edad en meses por su precio base.
+Con la llegada de la primavera, la venta de flores está en el top de negocios. El vivero "Rayito de Sol" nos contactó para que hagamos una aplicación en wollok que le ayude a automatizar sus ventas. El vivero tiene un conjunto de flores de distintos tipos. 
+De las flores se conoce su edad (en meses) y su precio base. Su precio se calcula como su edad en meses por su precio base.
 
 ## Actividades
 
-### Parte 1 - Precios y linduras
+### Parte 0 - Precios
+
+* Permitir calcular el precio para las flores del vivero.
+
+
+---
+<br><br><br><br>
+
+### Parte 1 - Linduras
 
 El vivero quiere poder conocer el precio de sus flores. Además quiere saber cuales son sus flores lindas. La lindura de una flor depende de cada una, Rayito de sol tiene la siguiente variedad de flores:
 
@@ -38,8 +46,6 @@ Rayito de Sol nos agregó un requerimiento. Quiere saber si una flor está de mo
 Esto sucede cuando su precio es mayor a $150, excepto las orquídeas y los tulipanes:
 * Orquídeas: sabemos que están de moda las chinas.
 * Tulipanes: para estar de moda, también tienen que ser lindos.
-Excepto las orquídeas, que sabemos que están de moda las chinas.
-Los tulipanes, para estar de moda, además tienen que ser lindos.
 
 ### Parte 5 - Flores comunes
 
