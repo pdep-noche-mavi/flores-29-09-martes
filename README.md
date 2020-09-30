@@ -31,7 +31,12 @@ Permitir conocer el precio de una flor, además saber cuáles son las flores lin
 El vivero también puede agregar flores , y pasar un mes (lo que agrega un mes de edad a todas sus flores).
 
 ### Diagrama Parte 1
+#### Antes de herencia
 <img src="diag1.png">
+
+#### Despues de herencia
+<img src="diag1seg.png">
+
 
 ### Parte 2 - Suculentas
 
