@@ -53,6 +53,7 @@ El vivero decidió vender a su flor más rara, Jacinta. Es una rosa que lleva 68
 
 ### Diagrama Parte 3
 <img src="diag3.png">
+
 ---
 ### Parte 4 - Flores de moda
 
@@ -63,6 +64,7 @@ Esto sucede cuando su precio es mayor a $150, excepto las orquídeas y los tulip
 
 ### Diagrama Parte 4
 <img src="diag4.png">
+
 ---
 ### Parte 5 - Flores comunes
 
