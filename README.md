@@ -14,6 +14,7 @@ De las flores se conoce su edad (en meses) y su precio base. Su precio se calcul
 * Permitir calcular el precio para las flores del vivero.
 
 ### Diagrama Parte 0
+#### Clase Flor
 <img src="diag0.png">
 
 ---
@@ -31,10 +32,10 @@ Permitir conocer el precio de una flor, además saber cuáles son las flores lin
 El vivero también puede agregar flores , y pasar un mes (lo que agrega un mes de edad a todas sus flores).
 
 ### Diagrama Parte 1
-#### Antes de herencia
+#### Antes de herencia, reemplazamos a la flor por una interface.
 <img src="diag1.png">
 
-#### Despues de herencia
+#### Despues de herencia, Flor pasa a ser clase abstracta.
 <img src="diag1seg.png">
 
 ---
@@ -43,6 +44,7 @@ El vivero también puede agregar flores , y pasar un mes (lo que agrega un mes d
 Además empezaron a vender suculentas. De ellas se conoce su diámetro , su altura y el valor de la maceta que la contiene. Su precio se calcula como su diámetro por su altura más el valor de la maceta. Las suculentas son lindas si su maceta vale más de $100. 
 
 ### Diagrama Parte 2
+#### Agregamos clase Suculenta e interface Planta.
 <img src="diag2.png">
 
 ---
@@ -52,6 +54,7 @@ El vivero decidió vender a su flor más rara, Jacinta. Es una rosa que lleva 68
 * Permitir saber si Jacinta es linda.
 
 ### Diagrama Parte 3
+#### Agregamos WKO jacinta.
 <img src="diag3.png">
 
 ---
@@ -63,6 +66,7 @@ Esto sucede cuando su precio es mayor a $150, excepto las orquídeas y los tulip
 * Tulipanes: para estar de moda, también tienen que ser lindos.
 
 ### Diagrama Parte 4
+#### Solo agregamos método estaDeModa() a clase abstracta Flor.
 <img src="diag4.png">
 
 ---
@@ -71,6 +75,7 @@ Esto sucede cuando su precio es mayor a $150, excepto las orquídeas y los tulip
 Además de vender orquídeas, tulipanes y jazmines, Rayito de Sol va a empezar a vender flores comunes.
 Las flores comunes tienen un precio que se calcula como su precio base multiplicado por su edad. Éstas están de moda si su precio es mayor a $150, y también se sabe que no son lindas.
 
+#### Flor pasa a ser clase concreta.
 ### Diagrama Final
 <img src="diag5.png">
 
