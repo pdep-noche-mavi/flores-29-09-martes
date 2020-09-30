@@ -44,6 +44,7 @@ Además empezaron a vender suculentas. De ellas se conoce su diámetro , su altu
 
 ### Diagrama Parte 2
 <img src="diag2.png">
+
 ---
 ### Parte 3 - Jacinta
 
