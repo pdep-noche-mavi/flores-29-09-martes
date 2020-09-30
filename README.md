@@ -13,6 +13,8 @@ De las flores se conoce su edad (en meses) y su precio base. Su precio se calcul
 
 * Permitir calcular el precio para las flores del vivero.
 
+### Diagrama Parte 0
+<img src="diag0.png">
 
 ---
 <br><br><br><br>
@@ -28,17 +30,23 @@ El vivero quiere poder conocer el precio de sus flores. Además quiere saber cua
 Permitir conocer el precio de una flor, además saber cuáles son las flores lindas del vivero. 
 El vivero también puede agregar flores , y pasar un mes (lo que agrega un mes de edad a todas sus flores).
 
-
+### Diagrama Parte 1
+<img src="diag1.png">
 
 ### Parte 2 - Suculentas
 
 Además empezaron a vender suculentas. De ellas se conoce su diámetro , su altura y el valor de la maceta que la contiene. Su precio se calcula como su diámetro por su altura más el valor de la maceta. Las suculentas son lindas si su maceta vale más de $100. 
 
+### Diagrama Parte 2
+<img src="diag2.png">
 
 ### Parte 3 - Jacinta
 
 El vivero decidió vender a su flor más rara, Jacinta. Es una rosa que lleva 68 meses viva (no sabemos cómo). Es roja carmesí y su precio base es de $100 por ser tan especial. De ella también se sabe que es linda solo los meses pares.
 * Permitir saber si Jacinta es linda.
+
+### Diagrama Parte 3
+<img src="diag3.png">
 
 ### Parte 4 - Flores de moda
 
@@ -47,11 +55,16 @@ Esto sucede cuando su precio es mayor a $150, excepto las orquídeas y los tulip
 * Orquídeas: sabemos que están de moda las chinas.
 * Tulipanes: para estar de moda, también tienen que ser lindos.
 
+### Diagrama Parte 4
+<img src="diag4.png">
+
 ### Parte 5 - Flores comunes
 
 Además de vender orquídeas, tulipanes y jazmines, Rayito de Sol va a empezar a vender flores comunes.
 Las flores comunes tienen un precio que se calcula como su precio base multiplicado por su edad. Éstas están de moda si su precio es mayor a $150, y también se sabe que no son lindas.
 
+### Diagrama Final
+<img src="diag5.png">
 
 
 
