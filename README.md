@@ -37,14 +37,14 @@ El vivero también puede agregar flores , y pasar un mes (lo que agrega un mes d
 #### Despues de herencia
 <img src="diag1seg.png">
 
-
+---
 ### Parte 2 - Suculentas
 
 Además empezaron a vender suculentas. De ellas se conoce su diámetro , su altura y el valor de la maceta que la contiene. Su precio se calcula como su diámetro por su altura más el valor de la maceta. Las suculentas son lindas si su maceta vale más de $100. 
 
 ### Diagrama Parte 2
 <img src="diag2.png">
-
+---
 ### Parte 3 - Jacinta
 
 El vivero decidió vender a su flor más rara, Jacinta. Es una rosa que lleva 68 meses viva (no sabemos cómo). Es roja carmesí y su precio base es de $100 por ser tan especial. De ella también se sabe que es linda solo los meses pares.
@@ -52,7 +52,7 @@ El vivero decidió vender a su flor más rara, Jacinta. Es una rosa que lleva 68
 
 ### Diagrama Parte 3
 <img src="diag3.png">
-
+---
 ### Parte 4 - Flores de moda
 
 Rayito de Sol nos agregó un requerimiento. Quiere saber si una flor está de moda.
@@ -62,7 +62,7 @@ Esto sucede cuando su precio es mayor a $150, excepto las orquídeas y los tulip
 
 ### Diagrama Parte 4
 <img src="diag4.png">
-
+---
 ### Parte 5 - Flores comunes
 
 Además de vender orquídeas, tulipanes y jazmines, Rayito de Sol va a empezar a vender flores comunes.
@@ -71,7 +71,7 @@ Las flores comunes tienen un precio que se calcula como su precio base multiplic
 ### Diagrama Final
 <img src="diag5.png">
 
-
+---
 
 
 
