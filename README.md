@@ -75,8 +75,9 @@ Esto sucede cuando su precio es mayor a $150, excepto las orquídeas y los tulip
 Además de vender orquídeas, tulipanes y jazmines, Rayito de Sol va a empezar a vender flores comunes.
 Las flores comunes tienen un precio que se calcula como su precio base multiplicado por su edad. Éstas están de moda si su precio es mayor a $150, y también se sabe que no son lindas.
 
-#### Flor pasa a ser clase concreta.
 ### Diagrama Final
+#### Flor pasa a ser clase concreta.
+
 <img src="diag5.png">
 
 ---
