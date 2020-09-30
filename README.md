@@ -46,8 +46,6 @@ Rayito de Sol nos agregó un requerimiento. Quiere saber si una flor está de mo
 Esto sucede cuando su precio es mayor a $150, excepto las orquídeas y los tulipanes:
 * Orquídeas: sabemos que están de moda las chinas.
 * Tulipanes: para estar de moda, también tienen que ser lindos.
-Excepto las orquídeas, que sabemos que están de moda las chinas.
-Los tulipanes, para estar de moda, además tienen que ser lindos.
 
 ### Parte 5 - Flores comunes
 
