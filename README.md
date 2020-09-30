@@ -2,7 +2,7 @@
 
 
 ## Dominio
-<br><img src="tulipanes1.jpg"><br>
+<br><img src="tulipanes1.jpg" width=600px height=400px><br>
 
 Con la llegada de la primavera, la venta de flores está en el top de negocios. El vivero "Rayito de Sol" nos contactó para que hagamos una aplicación en wollok que le ayude a automatizar sus ventas. El vivero tiene un conjunto de flores de distintos tipos. 
 De las flores se conoce su edad (en meses) y su precio base. Su precio se calcula como su edad en meses por su precio base.
