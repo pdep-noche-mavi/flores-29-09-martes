@@ -80,7 +80,6 @@ Las flores comunes tienen un precio que se calcula como su precio base multiplic
 
 <img src="diag5.png">
 
----
 
 
 
